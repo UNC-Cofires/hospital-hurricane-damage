@@ -1,0 +1,17 @@
+{
+    "paths":
+    {
+        "nfhl_dir":"/proj/characklab/projects/kieranf/flood_damage_index/data/NFHL"
+    },
+    "api_info":
+    {
+        "mediacloud_api_key": "my_api_key"
+    },
+    "gis_info":
+    {
+        "geographic_crs": "EPSG:4326",
+        "conus_projected_crs": "EPSG:5070",
+        "ak_projected_crs": "EPSG:6393",
+        "hi_projected_crs": "ESRI:102007"
+    }
+}

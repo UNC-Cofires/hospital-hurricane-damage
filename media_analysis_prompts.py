@@ -15,7 +15,7 @@ flooding or flooding due to snowmelt
     - Coastal flooding: caused by storm surge, tidal flooding, or win
     - Dam failures or levee breaches: often caused by natural flood drivers such as heavy rainfall, storm surge, or riverine floodingd-driven waves
 - The impacts, damage, casualties, emergency response, or recovery efforts related to a specific \
-tropical cyclone event, including those referred to as hurricanes, typhoons, or, or superstorms tropical storms
+tropical cyclone event, including those referred to as hurricanes, typhoons, tropical storms, or superstorms
 
 Classify as false if the article appears to cover:
 - Flood or storm watches, warnings, or advisories (future-focused)

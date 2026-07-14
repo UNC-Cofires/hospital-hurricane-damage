@@ -12,7 +12,7 @@ flood event, including any of the following types:
 or saturated ground, including flash floods and surface water flooding
     - Fluvial flooding: caused by rivers or streams overflowing their banks, including riverine \
 flooding or flooding due to snowmelt
-    - Coastal flooding: caused by storm surge, tidal flooding, or win
+    - Coastal flooding: caused by storm surge, tidal flooding, or wind-driven waves
     - Dam failures or levee breaches: often caused by natural flood drivers such as heavy rainfall, storm surge, or riverine floodingd-driven waves
 - The impacts, damage, casualties, emergency response, or recovery efforts related to a specific \
 tropical cyclone event, including those referred to as hurricanes, typhoons, tropical storms, or superstorms
@@ -23,9 +23,9 @@ Classify as false if the article appears to cover:
 - General or background discussions of flood or tropical cyclone risk not tied to a specific event
 - Preparedness guides, insurance, or policy discussions not tied to a specific ongoing or past event
 - Other types of disasters or emergencies such as industrial accidents, terrorist attacks, \
-infectious disease outbreaks, earthquakes, volcanic
+infectious disease outbreaks, earthquakes, volcanic eruptions, or wildfires
 - Flooding caused by non-natural infrastructure failures unrelated to weather or natural events, \
-such as water main breaks, burst pipes, or sewer overflows eruptions, or wildfires
+such as water main breaks, burst pipes, or sewer overflows
 - Topics unrelated to floods or tropical cyclones
 - Articles where a flood or tropical cyclone is mentioned only as background context for a story primarily about another topic
 
